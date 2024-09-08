@@ -8,6 +8,10 @@
 - **Google Sign-In/Log-In**: Simplifies the login process using Google accounts.
 - **Modern, Minimal UI**: A clean, user-friendly interface that ensures a seamless user experience.
 
+### Download Links
+
+- **Android APK**: [Download APK](https://github.com/SubhajitDolai/FireAuth/releases/tag/v1.0.0)
+
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
@@ -15,10 +19,6 @@
   <img src="assets/screenshots/register_page.png" width="300" alt="Register Page" />
   <img src="assets/screenshots/google_signIn.png" width="300" alt="Google Sign In Page" />
 </div>
-
-### Download Links
-
-- **Android APK**: [Download APK](https://github.com/SubhajitDolai/FireAuth/releases/tag/v1.0.0)
 
 ## Dependencies
 
