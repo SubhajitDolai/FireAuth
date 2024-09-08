@@ -18,7 +18,7 @@
 
 ### Download Links
 
-- **Android APK**: [Download APK](https://github.com/SubhajitDolai/Ecommerce-app/releases/tag/v1.0.0-beta)
+- **Android APK**: [Download APK](https://github.com/SubhajitDolai/FireAuth/releases/tag/v1.0.0)
 
 ## Dependencies
 
